@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: 作为一年多iOS开发的困惑
+date: 2017 - 4 -16 
 ---
 
 

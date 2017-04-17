@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 作为一年多iOS开发的困惑
-date: 2017 - 4 -16 
+date: 2017-04-16 
+tag: 博客
 ---
 
 
